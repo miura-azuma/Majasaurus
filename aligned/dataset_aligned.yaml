@@ -5,7 +5,7 @@
 #path: /content/Majasaurus/aligned/images  # dataset root dir
 train: /content/Majasaurus/aligned/images/train  # train images (relative to 'path')
 val: /content/Majasaurus/aligned/images/val # val images (relative to 'path')
- test: /content/Majasaurus/aligned/images/test # test images (optional)
+test: /content/Majasaurus/aligned/images/test # test images (optional)
 
 # Classes
 nc: 18  # number of classes
